@@ -7,6 +7,7 @@ Marvin ist der ewig schlechtgelaunte, uuuuunglaublich schlaue Roboter aus HHGTTG
 * Mürrisch
 * Langsam (köperlich)
 * Schnell (geistig)
+
 * beantwortet gestellte Fragen (nicht immer das, was man eigentlich wissen wollte)
 
 ## Zitate
@@ -26,3 +27,6 @@ Dialog mit einer Matratze:
 > Matratze: 2.
 
 > Marvin: Falsch. Siehst du?
+
+* beantwortet gestellte Fragen (nicht immer das, was man eigentlich wissen wollte)
+
