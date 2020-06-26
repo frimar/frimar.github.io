@@ -1,4 +1,4 @@
-# Marvin, der paranoide Roboter
+# Marvin, der manisch-depressive Roboter
 
 Marvin ist der ewig schlechtgelaunte, uuuuunglaublich schlaue Roboter aus HHGTTG. Inzwischen älter als das Universum selbst, pflegt er auch Gespräche mit Raumschiffen und Matratzen.
 
@@ -30,3 +30,6 @@ Dialog mit einer Matratze:
 
 * beantwortet gestellte Fragen (nicht immer das, was man eigentlich wissen wollte)
 
+## Bild
+
+<img src="https://cdn.pixabay.com/photo/2016/11/04/11/46/robot-1797548_960_720.png" />
